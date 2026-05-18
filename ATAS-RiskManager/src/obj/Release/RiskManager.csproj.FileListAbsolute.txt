@@ -1,0 +1,12 @@
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\releases\RiskManager.deps.json
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\releases\RiskManager.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\releases\RiskManager.pdb
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\RiskManager.csproj.AssemblyReference.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\RiskManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\RiskManager.AssemblyInfoInputs.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\RiskManager.AssemblyInfo.cs
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\RiskManager.csproj.CoreCompileInputs.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\RiskManager.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\refint\RiskManager.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\RiskManager.pdb
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\ref\RiskManager.dll

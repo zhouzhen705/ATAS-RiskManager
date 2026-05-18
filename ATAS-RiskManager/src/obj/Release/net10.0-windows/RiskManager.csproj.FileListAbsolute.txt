@@ -1,0 +1,13 @@
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\RiskManager.csproj.AssemblyReference.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\RiskManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\RiskManager.AssemblyInfoInputs.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\RiskManager.AssemblyInfo.cs
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\RiskManager.csproj.CoreCompileInputs.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\releases\net10.0-windows\RiskManager.deps.json
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\releases\net10.0-windows\RiskManager.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\releases\net10.0-windows\RiskManager.pdb
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\RiskMana.7335A28C.Up2Date
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\RiskManager.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\refint\RiskManager.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\RiskManager.pdb
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\src\obj\Release\net10.0-windows\ref\RiskManager.dll

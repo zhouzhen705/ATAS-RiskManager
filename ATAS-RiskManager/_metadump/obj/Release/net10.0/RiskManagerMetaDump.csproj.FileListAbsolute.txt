@@ -1,0 +1,14 @@
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\bin\Release\net10.0\RiskManagerMetaDump.exe
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\bin\Release\net10.0\RiskManagerMetaDump.deps.json
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\bin\Release\net10.0\RiskManagerMetaDump.runtimeconfig.json
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\bin\Release\net10.0\RiskManagerMetaDump.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\bin\Release\net10.0\RiskManagerMetaDump.pdb
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\RiskManagerMetaDump.GeneratedMSBuildEditorConfig.editorconfig
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\RiskManagerMetaDump.AssemblyInfoInputs.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\RiskManagerMetaDump.AssemblyInfo.cs
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\RiskManagerMetaDump.csproj.CoreCompileInputs.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\RiskManagerMetaDump.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\refint\RiskManagerMetaDump.dll
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\RiskManagerMetaDump.pdb
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\RiskManagerMetaDump.genruntimeconfig.cache
+F:\cc\Propfirm\atas_Indicators\3-RiskManager\_metadump\obj\Release\net10.0\ref\RiskManagerMetaDump.dll
